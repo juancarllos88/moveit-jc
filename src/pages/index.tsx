@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Move.it</title>
       </Head>
-      <ExperienceBar valor={200} />
+      <ExperienceBar />
 
       <section>
         <div>
